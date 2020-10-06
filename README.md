@@ -3,7 +3,7 @@
 This script is where we'll fiddle with FastAPI.
 
 ### Installation Instructions
-- `pip install fastapi uvicorn python-multipart`
+- `pip install fastapi uvicorn python-multipart passlib[bcrypt] python-jose[cryptography] passlib[bcrypt]`
 
 ### How to Use
 From the command line, you can run the example with 
